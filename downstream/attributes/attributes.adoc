@@ -13,10 +13,14 @@
 // Event-Driven Ansible
 :EDAName: Event-Driven Ansible
 <<<<<<< HEAD
+<<<<<<< HEAD
 :EDAcontroller: Event-Driven Ansible controller
 =======
 :EDAcontroller: Event-Driven controller
 >>>>>>> 765bea98 (AAP-12753 Updated attributes.adoc with Event-driven Ansible namees)
+=======
+:EDAcontroller: Event-Driven Ansible controller
+>>>>>>> 4827d434 (AAP-12753 Added Ansible to controller name)
 
 // AAP on Clouds
 :AAPonAzureName: Red Hat Ansible Automation Platform on Microsoft Azure
